@@ -41,7 +41,7 @@
         <h1 class="h5 mb-3 fw-normal">Registro</h1>
         <div class="form-floating">
             <input type="text" class="form-control" id="fLoatingInput"
-                   placeholder="Ingrese su nombre"  required autofocus
+                   placeholder="Ingrese sus nombres"  required autofocus
                    pattern="[A-Za-z0-9]{8, 12}">
             <label for="fLoatingInput">Nombres: </label>
         </div>
