@@ -43,19 +43,19 @@
             <input type="text" class="form-control" id="fLoatingInput"
                    placeholder="Ingrese su nombre"  required autofocus
                    pattern="[A-Za-z0-9]{8, 12}">
-            <label for="fLoatingInput">Usuario: </label>
+            <label for="fLoatingInput">Nombres: </label>
         </div>
         <div class="form-floating">
             <input type="text" class="form-control" id="fLoatingLastName"
                    placeholder="Ingrese sus apellidos"  required autofocus
                    pattern="[A-Za-z0-9]{8, 30}">
-            <label for="fLoatingLastName">Usuario: </label>
+            <label for="fLoatingLastName">Apellidos: </label>
         </div>
         <div class="form-floating">
             <input type="text" class="form-control" id="fLoatingID"
                    placeholder="Ingrese su cedula"  required autofocus
                    pattern="{1, 12}">
-            <label for="fLoatingID">Usuario: </label>
+            <label for="fLoatingID">Cedula: </label>
         </div>
         <div class="form-floating">
             <input type="password" class="form-control" id="floatingPassword"
