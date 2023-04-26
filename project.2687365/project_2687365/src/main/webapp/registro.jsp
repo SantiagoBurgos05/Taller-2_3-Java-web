@@ -38,7 +38,7 @@
     <form action="" method="post">
         <img class="mb-4" src="./img/logo.png" alt="MY APP" width=100>
         <h4 class="text-secondary">My -APP</h4>
-        <h1 class="h5 mb-3 fw-normal">Ingreso</h1>
+        <h1 class="h5 mb-3 fw-normal">Registro</h1>
         <div class="form-floating">
             <input type="text" class="form-control" id="fLoatingInput"
                    placeholder="Ingrese su nombre"  required autofocus
